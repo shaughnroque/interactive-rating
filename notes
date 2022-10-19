@@ -1,0 +1,22 @@
+Your users should be able to:
+
+Select and submit a number rating
+See the "Thank you" card state after submitting a rating
+See hover and focus states for all interactive elements on the page
+
+
+Problem
+
+- User selects a rating from 1-5
+- User then clicks submits to submit rating
+- When submitted the "Thank You" card should show up
+
+how to solve this?
+
+create the thank you card dynamically?
+or
+when the user clicks the submit button add a class that shows the thank you card component
+
+remove class card-container when user clicks submit and then add the class thank you container to provide information when user submits
+ 
+on the thank you card the rating of what the user clicked needs to show 
